@@ -1,5 +1,10 @@
 # Overview
-This serves as a minimal reproducible case for loguru bug (INSERT ONCE CREATED)
+This serves as a minimal reproducible case for [a loguru bug](https://github.com/Delgan/loguru/issues/102)
+
+# Environment
+This was discovered using
+* Python 3.7.3 via pyenv
+* Ubuntu 18.04
 
 # To run
 ```
